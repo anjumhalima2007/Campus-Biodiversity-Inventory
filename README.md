@@ -1,4 +1,4 @@
-# Campus-Biodiversity-Inventory# Campus Biodiversity Explorer
+# Campus-Biodiversity-Inventory
 
 ## Overview
 
